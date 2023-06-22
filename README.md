@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 📫 How to reach me **pala.kuba99@gmail.com**
+- 📫 Contact me:  **pala.kuba99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
