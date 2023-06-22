@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Workout-tracking App [MyWorkout](https://github.com/Kubek71/myworkout)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Vue**
 
 - 📫 How to reach me **pala.kuba99@gmail.com**
 
