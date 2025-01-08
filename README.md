@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub Pala</h1>
-<h3 align="center">A Junior Fronted Developer</h3>
 
 - 🔭 I’m currently working on Workout-tracking App [MyWorkout](https://github.com/Kubek71/myworkout)
-
-- 🌱 I’m currently learning **Vue**
 
 - 📫 Contact me:  **pala.kuba99@gmail.com**
 
