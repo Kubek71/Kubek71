@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub Pala</h1>
 
-- 🔭 I’m currently working on Workout-tracking App [MyWorkout](https://github.com/Kubek71/myworkout)
-
 - 📫 Contact me:  **pala.kuba99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
